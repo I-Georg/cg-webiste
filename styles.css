@@ -1,0 +1,22 @@
+h1 {
+  color: Darkred;
+}
+h2 {
+  color: blue;
+}
+li {
+  color: FireBrick;
+}
+#jaffa {
+  color: orange ;
+}
+
+.button {
+  border: 1px solid black}
+width: 100px;
+ background-color: green;
+text-decoration: none;
+color: white
+ text-align: center;
+border: 5px dashed black;
+color: #ffff00;
